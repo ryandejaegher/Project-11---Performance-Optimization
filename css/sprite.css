@@ -1,0 +1,33 @@
+.spriteavatar1, .spriteavatar2, .spriteavatar3, .spriteavatar4, .spriteavatar5, 
+.spriteavatar6, .spriteavatar7
+{ display: inline-block; background: url('../img/avatars/sprite75.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; border-radius: 100%; float: left; margin-right: 1rem; }
+ 
+.spriteavatar1 { background-position: -0px -0px; width: 75px; height: 75px; }
+.spriteavatar2 { background-position: -75px -0px; width: 75px; height: 75px; }
+.spriteavatar3 { background-position: -0px -75px; width: 75px; height: 75px; }
+.spriteavatar4 { background-position: -75px -75px; width: 75px; height: 75px; }
+.spriteavatar5 { background-position: -0px -150px; width: 75px; height: 75px; }
+.spriteavatar6 { background-position: -75px -150px; width: 75px; height: 75px; }
+.spriteavatar7 { background-position: -0px -225px; width: 75px; height: 75px; }
+
+.sprite-smallavatar1, .sprite-smallavatar2, .sprite-smallavatar3, .sprite-smallavatar4, .sprite-smallavatar5, 
+.sprite-smallavatar6, .sprite-smallavatar7
+{ display: inline-block; background: url('../img/avatars/sprite50.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; border-radius: 100%; float: left; margin-right: 1rem;  }
+ 
+.sprite-smallavatar1 { background-position: -0px -0px; width: 50px; height: 50px; }
+.sprite-smallavatar2 { background-position: -50px -0px; width: 50px; height: 50px; }
+.sprite-smallavatar3 { background-position: -0px -50px; width: 50px; height: 50px; }
+.sprite-smallavatar4 { background-position: -50px -50px; width: 50px; height: 50px; }
+.sprite-smallavatar5 { background-position: -0px -100px; width: 50px; height: 50px; }
+.sprite-smallavatar6 { background-position: -50px -100px; width: 50px; height: 50px; }
+.sprite-smallavatar7 { background-position: -0px -150px; width: 50px; height: 50px; }
+
+.hero-avatar {
+	margin-left: 1rem;
+	float: right;
+}
+
+.svg-size {
+	width: 35px;
+	height: 35px;
+}
